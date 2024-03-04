@@ -41,6 +41,7 @@ Special thanks to [Prof. Steve Collins](https://www.photonics.ox.ac.uk/people/st
 # Cite
 If you use any of the material in this repository, please cite the original work as appropriate.
 BibTeX entries are provided on the [publications page](https://github.com/WillMatthews/publications/blob/master/publications.md).
+(You may need to click the "view raw" button to see the raw markdown file, as the rendered version does not display javascript where the BibTeX entries are stored.)
 
 # Contribute
 If you would like to contribute to this repository, please open an issue or a pull request.
