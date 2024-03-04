@@ -21,6 +21,8 @@ certainty: 7
 
 ## Ultra-Sensitive UV Solar Blind Optical Wireless Communications with SiPM
 
+Liu, F., Farmer, J., Schreier, A., Faulkner, G., Chun, H., Matthews, W., Wang, Z., & O'Brien, D. (2023). Ultra-Sensitive UV Solar Blind Optical Wireless Communications with SiPM. Optics Letters, 48(20), 5387–5390. https://doi.org/10.1364/OL.503235
+
 In this Letter, an SiPM with a dedicated cooling system suitable for receiving ultra-low-power solar-blind wavelengths is reported. This is designed to decrease the temperature of the detector from 21{\textdegree}C to --10{\textdegree}C, and the corresponding dark count rate (DCR) is reduced by approximately 10 dB. A 275 nm optical wireless communication (OWC) system is established using on--off-keying (OOK) modulation. Transmission rates ranging from 100 kbit/s to 2 Mbit/s are demonstrated with this cooled SiPM. The received power is as low as 30 pW (corresponding to 41.5 photons per bit) at a data rate of 1 Mbit/s and a bit error rate of 2.4 {\texttimes} 10--3.
 
 <a href="javascript:void(0)" onclick="copyToClipboard(`
@@ -118,6 +120,8 @@ Ali, W., Matthews, W., Faulkner, G., & Collins, S. (2021). A wide field-of-view 
 <a href="javascript:void(0)" onclick="copyToClipboard(`
 @INPROCEEDINGS{5, author={Ali, Wajahat, and Matthews, William and Faulkner, Grahame, and Collins, Steve}, booktitle={2021 2nd Optical Wireless Communications Conference}, title={A wide field-of-view receiver that incorporates fluorescent fibers and a SiPM.}, year={2021}, volume={}, number={}, pages={1-2}, abstract={}, keywords={}, url={https://www.owcconference.com/previous-editions/#2021}, ISSN={}, month={Aug}}
 `)">Copy BibTeX Citation</a>
+
+<a href="https://github.com/WillMatthews/publications/blob/master/pdf/fiber-wide-fov.pdf">
 
 
 ## DCO-OFDM Channel Sounding with a SiPM Receiver
