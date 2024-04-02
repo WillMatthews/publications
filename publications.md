@@ -11,7 +11,7 @@ tags: ""
 importance: 2
 certainty: 7
 ---
-# My Publications:
+# Journal Articles and Conference Papers
 
 ## In Preparation
 
@@ -122,6 +122,8 @@ Ali, W., Matthews, W., Faulkner, G., & Collins, S. (2021). A wide field-of-view 
 `)">Copy BibTeX Citation</a>
 
 <a href="https://github.com/WillMatthews/publications/blob/master/pdf/fiber-wide-fov.pdf">
+Go to PDF
+</a>
 
 
 ## DCO-OFDM Channel Sounding with a SiPM Receiver
@@ -218,6 +220,69 @@ Results are presented which show that by using a SiPM with a higher maximum outp
 `)">Copy BibTeX Citation</a>
 
 <a href="https://github.com/WillMatthews/publications/blob/master/pdf/3-45Rx-conference.pdf">
+Go to PDF
+</a>
+
+# Theses
+
+## Silicon Photomultipliers as Optical Wireless Receivers in Ambient Light
+### Characterisation, Modelling, Monte-Carlo Simulation, and Mitigation of Ambient Light
+Matthews, W. (2021). Silicon Photomultipliers as Optical Wireless Receivers in Ambient Light. DPhil Thesis, University of Oxford.
+
+Existing RF wireless communications systems are increasingly struggling to guarantee the quality of service expected by users, especially in environments with many terminals.
+Visible light communication (VLC) systems are consequently being considered as a solution to this problem, as they offer the potential for densely packing channels in space and do not contribute to RF congestion.
+Receivers based upon silicon photomultipliers (SiPMs) have been shown to be more sensitive than other VLC receivers, for on-off keying (OOK) data rates less than 1.5 Gbps.
+Despite having the ability to detect individual photons, one of the major issues in using a SiPM as a receiver is device saturation.
+SiPM saturation may begin at low irradiances (starting at 10 mW/m2 at 405 nm for a J-Series 30020 SiPM), which may be from either a transmitter or ambient light.
+
+In this thesis, two off the shelf SiPMs are investigated as an OOK VLC receiver these are both characterised and compared in their operating performance.
+A robust optical communications system using a SiPM as a receiver, operating at 405 nm in eye-safe irradiances is described.
+The highest performing SiPM of the two is further pushed to operate in hostile environments with high ambient light levels.
+An alternative evaluation board is utilised to achieve a higher maximum count rate and probe SiPM saturation to understand the mechanisms at work.
+
+The results from characterisation and operation in hostile environments is used to develop and validate an accurate Monte Carlo simulation of SiPMs, and the time domain non-linearity is explained as a consequence of the time taken to recharge a microcell.
+The simulation is used to 'look inside' the SiPM and examine typically unobservable parameters, and work is done to quantify the statistical process behind the distribution of time since detection.
+This Monte Carlo simulation is the first of its class that has been validated against experimental data.
+
+Additionally, a new form of form of nonlinear inter-symbol interference (ISI) is presented, which occurs when a SiPM operates in ambient light causing time domain non-linearity.
+This is achieved through understanding the key mechanisms at play when ambient light illuminates a SiPM, and designing a new receiver that combines multiple SiPMs together to improve the system's ambient light performance as predicted by Poisson statistics.
+
+Finally, a novel receiver is presented which allows for field of view selection in solid state.
+This receiver allows for reducing the impact of ambient light from a large field of regard, and the selection of transmitters.
+
+<a href="https://github.com/WillMatthews/publications/blob/master/pdf/william-matthews-thesis-sipm-optical-rx-amb-light.pdf">
+Go to PDF (coming soon)
+</a>
+
+
+## Graph Modulation
+### A Pathway to Ultra-Efficient Communication and Storage for 6G Systems
+Matthews, W (2019). Graph Modulation: A Pathway to Ultra-Efficient Communication and Storage for 6G Systems. 4th Year Project, University of Oxford.
+
+High-dimensional communications holds the potential to provide a high-throughput scheme which has a rate that scales super-linearly (considering bits per symbol).
+To benefit from the super-linear growth and obtain high data rates, combinatorics and more abstract methods need to be considered to obtain the extra bits of information.
+The key benefit of a super-linearly scaling scheme is once the scheme is known the solution to gaining a faster rate is merely achieved by increasing the number of channels.
+The primary focus of this work is displaying how the rate of a scheme’s capacity grows as the number of resources increase.
+Research showed that schemes exist which offer O(n log(n)) type growth, but nothing was found to offer O(n1+\epsilon) growth for some positive quantity \epsilon.
+Here, work is done to explore the super-linear growth rate problem, and a contender for poly- nomial capacity growth, O(n1+\epsilon) is found.
+This attempt at an original pathway to such a scheme is found through The Graph Modulation, by looking at the communications problem by considering the mathematical object of the graph.
+Various methods are employed to attempt to solve the problem, but no ideal solution was found.
+Permutation Modulation, the first scheme to achieve super-linear growth (giving O(n log(n))), is benchmarked against a high lower bound for its space usage.
+Results showed that despite permutation modulation’s non-optimal space usage, the rank decoder offers significant benefits in terms of decoding computation requirements and gives a practical solution to implementing permutation when n is driven to a large value.
+Finally, the high lower bound used to analyse permutation modulation was found through an original codebook generator made specifically for this work, to space points evenly on a high-dimensional sphere.
+A codebook generator is constructed as the Thomson Modulation, which aims to use the available space within the power limits of a transmitter in an optimal manner by aiming for maximum minimum distance properties to be achieved.
+Results showed that the constructed codebook generator achieved better distance properties than QAM and was validated as a high lower bound for space usage.
+
+<a href="https://github.com/WillMatthews/publications/blob/master/pdf/GraphModulation.pdf">
+Go to PDF
+</a>
+
+
+## Ammonia-Based Energy Storage System for an Electrical Grid
+### A Design Study For Maui, HI, USA
+Matthews, W., Schnyder, E., Chong, L., Murray, L., Yang, J. & Rhodes, J. (2018). Ammonia-Based Energy Storage System for an Electrical Grid. 3rd Year Project, University of Oxford.
+
+<a href="https://github.com/WillMatthews/publications/blob/master/pdf/AmmoniaESS.pdf">
 Go to PDF
 </a>
 
