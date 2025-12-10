@@ -36,7 +36,7 @@ This work was supported by the [UK Engineering and Physical Sciences Research Co
 Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author and do not necessarily reflect the views of the EPSRC or the University of Oxford.
 
 This work would not be possible without the support of my colleagues and collaborators in the [Oxford Photonics Network](https://www.photonics.ox.ac.uk/).
-Special thanks to [Prof. Steve Collins](https://www.photonics.ox.ac.uk/people/steve-collins) for his support and guidance.
+Special thanks to [Prof.](https://web.archive.org/web/20241112025913/https://www.photonics.ox.ac.uk/people/steve-collins) [Steve](https://www.robots.ox.ac.uk/~mcad/collins.html) [Collins](https://eng.ox.ac.uk/people/steve-collins) for his support and guidance.
 
 # Cite
 If you use any of the material in this repository, please cite the original work as appropriate.
