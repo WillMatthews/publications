@@ -72,14 +72,14 @@ Go to PDF
 </a>
 
 
-## A roadmap for multi-Gigabit to Terabit free space optical communications receivers
+## A Roadmap for Gigabit to Terabit Optical Wireless Communications Receivers
 
-Matthews, W., & Collins, S. (2023). A roadmap for multi-Gigabit to Terabit free space optical communications receivers. MDPI Sensors, 23(3)(1101), 1–22. https://doi.org/10.3390/s23031101
+Matthews, W., & Collins, S. (2023). A Roadmap for Gigabit to Terabit Optical Wireless Communications Receivers. MDPI Sensors, 23(3)(1101), 1–22. https://doi.org/10.3390/s23031101
 
 Silicon photomultiplier's relatively large area and ability to detect single photons makes them attractive as receivers for optical wireless communications. In this paper the relative importance of the non-linearity and the width of the SiPMs fast output on their performance in receivers are investigated using Monte Carlo simulations. Using these results the performance of receivers containing different SiPMs is estimated. This is followed by discussion of the potential performance of arrays of existing SiPMs. Finally, the possible dramatic improvements in performance that could be achieved by using two stacked integrated circuits is highlighted.
 
 <a href="javascript:void(0)" onclick="copyToClipboard(`
-@ARTICLE{11, author={Matthews, William and Collins, Steve}, journal={MDPI Sensors}, title={A roadmap for multi-Gigabit to Terabit free space optical communications receivers}, year={2023}, volume={23(3)}, number={1101}, pages={1-22}, abstract={Silicon photomultiplier’s relatively large area and ability to detect single photons makes them attractive as receivers for optical wireless communications. In this paper the relative importance of the non-linearity and the width of the SiPMs fast output on their performance in receivers are investigated using Monte Carlo simulations. Using these results the performance of receivers containing different SiPMs is estimated. This is followed by discussion of the potential performance of arrays of existing SiPMs. Finally, the possible dramatic improvements in performance that could be achieved by using two stacked integrated circuits is highlighted.}, keywords={Visible Light Communications, SiPM, Monte Carlo}, doi={10.3390/s23031101}, ISSN={1424-8220}, month={Jan}}
+@ARTICLE{11, author={Matthews, William and Collins, Steve}, journal={MDPI Sensors}, title={A Roadmap for Gigabit to Terabit Optical Wireless Communications Receivers}, year={2023}, volume={23(3)}, number={1101}, pages={1-22}, abstract={Silicon photomultiplier’s relatively large area and ability to detect single photons makes them attractive as receivers for optical wireless communications. In this paper the relative importance of the non-linearity and the width of the SiPMs fast output on their performance in receivers are investigated using Monte Carlo simulations. Using these results the performance of receivers containing different SiPMs is estimated. This is followed by discussion of the potential performance of arrays of existing SiPMs. Finally, the possible dramatic improvements in performance that could be achieved by using two stacked integrated circuits is highlighted.}, keywords={Visible Light Communications, SiPM, Monte Carlo}, doi={10.3390/s23031101}, ISSN={1424-8220}, month={Jan}}
 `)">Copy BibTeX Citation</a>
 
 <a href="https://github.com/WillMatthews/publications/blob/master/pdf/sipm-roadmap.pdf">
